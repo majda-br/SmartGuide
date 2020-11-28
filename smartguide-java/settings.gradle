@@ -1,0 +1,2 @@
+rootProject.name='Smart Guide'
+include ':app', ':jsch-0.1.55'
